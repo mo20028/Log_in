@@ -11,7 +11,7 @@ On the other hand, if an incorrect password is entered, the system displays a fr
 To enhance security, the user has a maximum of 3 attempts to enter the correct password. After the third attempt, the system locks down until it is reset.
 After a successful login, a warm message "The system is open" appears on the LCD.
 
-# Software Used:
+<h3> Software Used:</h3>
 
 Port Driver     - To manage port configurations for various peripherals.
 DIO Driver      - For Digital Input/Output operations.
