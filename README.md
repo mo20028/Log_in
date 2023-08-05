@@ -13,8 +13,8 @@ After a successful login, a warm message "The system is open" appears on the LCD
 
 <h3> Software Used:</h3>
 
-_Port Driver     - To manage port configurations for various peripherals.
-_DIO Driver      - For Digital Input/Output operations.
+-Port Driver     - To manage port configurations for various peripherals.
+-DIO Driver      - For Digital Input/Output operations.
 4x20 LCD Driver - To control the 4x20 Character LCD.
 Keypad Driver   - For handling the input from the 4x4 Keypad.
 TWI Driver      - For Two-Wire Interface communication (I2C) with the External EEPROM.
