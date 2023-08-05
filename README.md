@@ -13,15 +13,18 @@ this message, “wrong password”.
 password after that the system will lock util reset the system .
 7. After a successful login, the system displays this message"the system is open": 
 
-Software used : 
-1- DIO Diver 
-2- 4x20 LCD Driver 
-3- Keypad driver
-4- External EEPROM
+Software used :
+1- Port Driver
+2- DIO Driver 
+3- 4x20 LCD Driver 
+4- Keypad driver
+5- TWI Driver
+6- External EEPROM Driver
 
 Hardware Used
 1- Atmega 32 micro controller
 2- 4x20 LCD (CLCD) 
 3- 4x4 Keypad
+4-EXternal EEPROM "24c08"
 
 
