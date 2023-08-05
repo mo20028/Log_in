@@ -1,7 +1,7 @@
 # Log_in
 Hello everyone! Today, I am excited to share with you my latest project - a Login System that I developed in my journey for learning Embedded system. 🚀
 
-<h3>Project Description:</h3>
+<h3> Project Description:</h3>
 
 During the first-time setup, the user is prompted to enter a password, and the system securely stores it in the EEPROM for future logins.  
 Upon subsequent logins, the system will request the user to input their password using the 4x4 Keypad.  
