@@ -20,7 +20,7 @@ Keypad Driver   - For handling the input from the 4x4 Keypad.
 TWI Driver      - For Two-Wire Interface communication (I2C) with the External EEPROM.
 Ex-EEPROM Driver- To read and write data from/to the EEPROM "24c08".
 
-Hardware Used:
+<h3> Hardware Used:</h3>
 
 Atmega 32 Micro - The brain behind the operation.
 4x20 LCD (CLCD) - For clear and crisp display of messages.
